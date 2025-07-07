@@ -1,4 +1,4 @@
-# nhanes-diabetes-prediction
+# NHANES-Diabetes-Prediction
 Diabetes prediction using NHANES 2021–2022 data with ML models, SHAP explanations, and reproducible notebooks.
 
 # Early Detection of Diabetes Using Machine Learning (NHANES 2021–2022)
