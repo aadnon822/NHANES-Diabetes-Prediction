@@ -20,4 +20,4 @@ This project predicts diabetes status based on U.S. health survey data using mul
 ```bash
 pip install -r requirements.txt
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_USERNAME/nhanes-diabetes-prediction/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aadnon822/NHANES-Diabetes-Prediction/HEAD)
